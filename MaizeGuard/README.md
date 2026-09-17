@@ -7,3 +7,11 @@ The model classifies maize leaves into:
 - Common rust
 - Northern leaf blight
 - Healthy
+
+## Confusion Matrix
+
+![Confusion Matrix](outputs/phase6_confusion_matrix.png)
+
+## Model Explainability
+
+![Grad-CAM](outputs/phase7_gradcam_example.png)
